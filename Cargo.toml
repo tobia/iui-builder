@@ -1,0 +1,8 @@
+[package]
+name = "iui-builder"
+version = "0.1.0"
+authors = ["Tobia Conforto <tobia.conforto@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+iui = "0.3.0"
